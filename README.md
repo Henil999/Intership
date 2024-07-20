@@ -84,7 +84,7 @@ Technologies used in the project:
 
 **Note:** If you encounter any issues or have suggestions for improvement, please feel free to [create an issue](https://github.com/hiranj-kotak/sneakers/issues/new/choose) on our GitHub repository. We appreciate your feedback!
 
-Made with ❤️ by [hiranj-kotak](https://github.com/hiranj-kotak).
+Made with ❤️ by [Henil Mendpara and Priti Mendpara](https://github.com/henil999).
 
 Don't forget to star ⭐ the repository if you find it useful!
   
